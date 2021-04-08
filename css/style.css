@@ -10,11 +10,10 @@ img {
 .main-container {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: 1100px;
   background: #f5f7fa;
-  margin: 40px auto;
+  margin: 0 auto;
   padding: 40px;
-  width: 1280px;
 }
 
 /* main content section */
@@ -69,7 +68,7 @@ img {
   margin-bottom: 10px;
 }
 
-.my-progect-list {
+.my-project-list {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -78,7 +77,7 @@ img {
   padding-left: 15px;
 }
 
-.my-progect-item {
+.my-project-item {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;

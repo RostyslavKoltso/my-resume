@@ -1,0 +1,151 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 10px solid black;
+    overflow: hidden;
+}
+.head-blok-pink {
+    background: pink;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header-blok-width{
+   background-color: wheat;
+   width: 80%;
+   margin: 0 auto;
+   padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header-blok-black {
+    background: black;
+    width: 80%;
+    height: 50%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.section-one {
+    padding: 10px 0;
+    background-color: gray;
+    display: flex;
+}
+.section-one-red, .section-one-orange, .section-one-blue, .section-one-yelov {
+    width: 25%;
+    height: 200px;
+}
+.section-one-red {
+    background-color: red;
+}
+.section-one-orange {
+    background-color: orange;
+}
+.section-one-blue {
+    background-color: blue;
+}
+.section-one-yelov {
+    background-color: yellow;
+}
+.section2 {
+    height: 300px;
+    display: flex;
+}
+.left-blok, .center-blok, .right-blok {
+    height: 300px;
+    width: 33.33%;
+}
+.left-blok {
+    background-color: green;
+    padding-top: 20px;
+}
+.left {
+    height: 20px;
+    width: 50%;
+    background-color: orangered;
+    margin: auto;
+}
+.a-b {
+    width: 50%;
+    margin: auto;
+    display: flex;
+}
+.a-left, .b-left {
+    height: 260px;
+    width: 50%;
+    display: flex;
+}
+.a-left {
+    background-color: gray;
+}
+.b-left {
+    background-color: yellow;
+}
+.center-blok {
+    background-color: skyblue;
+    display: flex;
+}
+.right-blok {
+    background-color: blue;  
+    display: flex;
+}
+.a-center, .A-center, .B-center{
+    height: 72%;
+    width: 33.33%;
+    margin-top: 25%;
+}
+.a-center {
+    background-color: red;
+}
+.A-center {
+    background-color: yellow;
+    display: flex;
+}
+.B-center {
+    background-color: orange;
+}
+.smol1, .smol2 {
+    width: 50%;
+    float: left;
+}
+.smol1 {
+    background-color: orange;
+    height: 60%;
+    margin-top: 78%;
+}
+.smol2 {
+    background-color: red;
+    height: 30%;
+    margin-top: 137%;
+}
+.blok1, .blok2, .blok3 {
+    height: 33.33%;
+    width: 33.33%;
+}
+.blok1 {
+    background-color: skyblue;
+    margin-top: 60%;
+}
+.blok2 {
+    background-color: yellow;
+    margin-top: 40%;
+}
+.blok3 {
+    background-color: orange;
+    margin-top: 20%;
+}
+.text1, .text2 {
+    height: 20%;
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+.text1 {
+    width: 75%;
+    margin-top: 20%;
+    margin-left: 25%;
+    display: flex;
+}
+.text2 {
+    width: 75%;
+    margin-top: 20%;
+    display: flex;
+}
